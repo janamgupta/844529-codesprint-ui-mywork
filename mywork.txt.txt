@@ -1,0 +1,18 @@
+My associate id:
+844529
+Other team members:
+844530,844619,844553,844552,
+Team lead:
+844529
+My Role in team:
+1. Form development 1 - All fields and validations including.
+2. Saving to localstorage 
+My development files:
+1. placeappointment.html
+2. storage.js
+3. FormValidation.js
+I was strong in:
+1. Local storage
+3. Javascript Validation
+I was weak in:
+1. Designing
